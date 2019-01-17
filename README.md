@@ -4,3 +4,6 @@ Clone the project to your local computer
 Extract the files and copy them to htdocs folder in xammp folder 
 Run the web application using local host 
 N/B Ensure you are connected to the internet
+
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
